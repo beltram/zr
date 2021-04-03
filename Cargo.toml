@@ -2,5 +2,16 @@
 name = "zr"
 version = "0.0.1"
 edition = "2018"
+authors = ["Beltram Maldant"]
+description = "Project initializr with completion"
+homepage = "https://github.com/beltram/zr"
+repository = "https://github.com/beltram/zr"
+license = "Apache-2.0"
+keywords = ["cli"]
+categories = ["command-line-utilities"]
 
 [dependencies]
+
+[profile.release]
+lto = true
+codegen-units = 1
