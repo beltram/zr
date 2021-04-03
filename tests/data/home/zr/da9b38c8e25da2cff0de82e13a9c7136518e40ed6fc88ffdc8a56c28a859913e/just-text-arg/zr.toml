@@ -1,0 +1,5 @@
+[str-arg-no-default]
+kind = { ARG = {} }
+
+[str-arg-with-default]
+kind = { ARG = { default = 'default' } }

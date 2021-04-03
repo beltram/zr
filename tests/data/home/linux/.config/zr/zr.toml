@@ -1,0 +1,6 @@
+repositories = [
+    'https://github.com/beltram/zr-test.git',
+    'https://github.com/beltram/zr-tests.git',
+    'https://github.com/beltram/zr-commands.git',
+    'https://github.com/beltram/no-arg-initializr.git',
+]

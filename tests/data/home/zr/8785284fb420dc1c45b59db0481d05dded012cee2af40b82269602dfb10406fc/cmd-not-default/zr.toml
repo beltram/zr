@@ -1,0 +1,2 @@
+[recap]
+kind = { CMD = { default = false, cmd = 'ls .' } }

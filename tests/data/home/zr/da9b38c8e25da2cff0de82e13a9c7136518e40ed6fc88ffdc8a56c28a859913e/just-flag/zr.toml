@@ -1,0 +1,8 @@
+[simple-flag]
+kind = { FLAG = {} }
+
+[no-simple-flag]
+kind = { FLAG = { negate = true } }
+
+[explicit-simple-flag]
+kind = { FLAG = { negate = false } }

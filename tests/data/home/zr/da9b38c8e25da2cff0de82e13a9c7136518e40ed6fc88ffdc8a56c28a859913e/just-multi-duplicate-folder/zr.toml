@@ -1,0 +1,3 @@
+[module]
+short = 'm'
+kind = { MULTI = {} }

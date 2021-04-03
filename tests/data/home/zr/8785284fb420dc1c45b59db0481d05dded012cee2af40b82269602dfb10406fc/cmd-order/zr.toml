@@ -1,0 +1,4 @@
+[create]
+kind = { CMD = { order = 0, cmd = 'touch a.txt' } }
+[list]
+kind = { CMD = { order = 1, cmd = 'ls .' } }

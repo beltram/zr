@@ -1,3 +1,5 @@
+use zr::entrypoint::CliEntryPoint;
+
 fn main() {
-    println!("Hello, world!");
+    CliEntryPoint::run();
 }
